@@ -1,8 +1,4 @@
-celacislo = 20
-realnecislo  = 20.5
-cislopi = 3.14
-velkecislo = 1_000_000_000
-hexicimanlnicislo = 0xff
-
-print("celecislo:",celacislo)
-print("hexicimanlnicislo:" ,hexicimanlnicislo )
+cele_cislo= 10
+print(f"cislo je : {cele_cislo}")
+# or
+print("cislo je ", cele_cislo)
